@@ -1,8 +1,7 @@
 # Project Title
+frontend-nanodegree-feedreader-master
 
-FeedReader RSS
-
-# Way to complete progect
+# Way to complete project
 
 1. Download the [required project assets](http://github.com/udacity/frontend-nanodegree-feedreader).
 2. Review the functionality of the application within your browser.
